@@ -34,7 +34,7 @@ representation learning techniques:
 ## Usage instructions
 
 In the paper we train self-supervised models using 32 or 128 TPU cores. We
-evaluate the resulting representations by training a logisitc regression model
+evaluate the resulting representations by training a logistic regression model
 on 32 TPU cores.
 
 In this codebase we provide configurations for training/evaluation of our models
