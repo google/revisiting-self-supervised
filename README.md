@@ -132,6 +132,12 @@ You could start a tensorboard to visualize the training/evaluation progress:
 tensorboard --port 2222 --logdir gs://<EVAL_DIRECTORY>
 ```
 
+## Pretrained models
+
+If you want to download and try our best self-supervised models please see this [Ipython
+notebook](https://colab.research.google.com/drive/1HdApkScZpulQrACrPKZiKYHhy7MeR3iN).
+
+
 ## Authors
 
 - [Alexander Kolesnikov](https://github.com/kolesman)
