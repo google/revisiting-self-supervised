@@ -6,11 +6,12 @@ Tensorflow implementation of experiments from
 If you find this repository useful in your research, please consider citing:
 
 ```
-@article{kolesnikov2019revisiting,
-         title={Revisiting self-supervised visual representation learning},
-         author={Kolesnikov, Alexander and Zhai, Xiaohua and Beyer, Lucas},
-         journal={arXiv preprint arXiv:1901.09005},
-         year={2019}
+@inproceedings{kolesnikov2019revisiting,
+    title={Revisiting self-supervised visual representation learning},
+    author={Kolesnikov, Alexander and Zhai, Xiaohua and Beyer, Lucas},
+    journal={The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month={June},
+    year={2019}
 }
 ```
 
